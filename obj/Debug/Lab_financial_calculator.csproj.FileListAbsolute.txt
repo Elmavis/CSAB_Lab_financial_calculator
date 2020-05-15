@@ -1,0 +1,15 @@
+C:\Users\taras\OneDrive\Desktop\Univer\CSAB\Labs\Lab_financial_calculator\bin\Debug\Lab_financial_calculator.exe.config
+C:\Users\taras\OneDrive\Desktop\Univer\CSAB\Labs\Lab_financial_calculator\bin\Debug\Lab_financial_calculator.exe
+C:\Users\taras\OneDrive\Desktop\Univer\CSAB\Labs\Lab_financial_calculator\bin\Debug\Lab_financial_calculator.pdb
+C:\Users\taras\OneDrive\Desktop\Univer\CSAB\Labs\Lab_financial_calculator\obj\Debug\Lab_financial_calculator.csprojAssemblyReference.cache
+C:\Users\taras\OneDrive\Desktop\Univer\CSAB\Labs\Lab_financial_calculator\obj\Debug\MainWindow.g.cs
+C:\Users\taras\OneDrive\Desktop\Univer\CSAB\Labs\Lab_financial_calculator\obj\Debug\App.g.cs
+C:\Users\taras\OneDrive\Desktop\Univer\CSAB\Labs\Lab_financial_calculator\obj\Debug\Lab_financial_calculator_MarkupCompile.cache
+C:\Users\taras\OneDrive\Desktop\Univer\CSAB\Labs\Lab_financial_calculator\obj\Debug\Lab_financial_calculator_MarkupCompile.lref
+C:\Users\taras\OneDrive\Desktop\Univer\CSAB\Labs\Lab_financial_calculator\obj\Debug\MainWindow.baml
+C:\Users\taras\OneDrive\Desktop\Univer\CSAB\Labs\Lab_financial_calculator\obj\Debug\Lab_financial_calculator.g.resources
+C:\Users\taras\OneDrive\Desktop\Univer\CSAB\Labs\Lab_financial_calculator\obj\Debug\Lab_financial_calculator.Properties.Resources.resources
+C:\Users\taras\OneDrive\Desktop\Univer\CSAB\Labs\Lab_financial_calculator\obj\Debug\Lab_financial_calculator.csproj.GenerateResource.cache
+C:\Users\taras\OneDrive\Desktop\Univer\CSAB\Labs\Lab_financial_calculator\obj\Debug\Lab_financial_calculator.csproj.CoreCompileInputs.cache
+C:\Users\taras\OneDrive\Desktop\Univer\CSAB\Labs\Lab_financial_calculator\obj\Debug\Lab_financial_calculator.exe
+C:\Users\taras\OneDrive\Desktop\Univer\CSAB\Labs\Lab_financial_calculator\obj\Debug\Lab_financial_calculator.pdb
