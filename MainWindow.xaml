@@ -20,12 +20,14 @@
         <Label Content="Результат:" HorizontalAlignment="Left" Margin="10,248,0,0" VerticalAlignment="Top"/>
         <Label Name="lNum1" Content="0" HorizontalAlignment="Left" Margin="114,154,0,0" VerticalAlignment="Top"/>
         <Label Name="lNum2" Content="0" HorizontalAlignment="Left" Margin="114,185,0,0" VerticalAlignment="Top"/>
-        <Label x:Name="lOperation" Content="Not yet" HorizontalAlignment="Left" Margin="114,216,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lOperation" Content="Пока нет" HorizontalAlignment="Left" Margin="114,216,0,0" VerticalAlignment="Top"/>
         <Label x:Name="lResult" Content="0" HorizontalAlignment="Left" Margin="114,248,0,0" VerticalAlignment="Top"/>
         <Button Name="btMain" Content="Calculate" HorizontalAlignment="Left" Margin="365,154,0,0" VerticalAlignment="Top" Width="152" Height="120" Click="BtMain_Click" RenderTransformOrigin="2.822,-2.429"/>
-        <StackPanel HorizontalAlignment="Left" Height="38" Margin="365,64,0,0" VerticalAlignment="Top" Width="164">
+        <StackPanel HorizontalAlignment="Left" Height="65" Margin="365,64,0,0" VerticalAlignment="Top" Width="164">
             <RadioButton Name="rbPlus" Content="Сложение" IsChecked="True"/>
             <RadioButton Name="rbMinus" Content="Вычитание x2 из x1"/>
+            <RadioButton Name="rbMulti" Content="Умножение" />
+            <RadioButton Name="rbDiv"  Content="Деление x1 на x2"/>
         </StackPanel>
 
     </Grid>
